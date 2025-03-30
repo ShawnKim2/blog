@@ -2,11 +2,16 @@
 
 ## 논문 정보
 - **링크:** [논문 링크](https://www.tandfonline.com/doi/full/10.1080/14620316.2024.2400127?scroll=top&needAccess=true)
-- **용어 정리:** 
-annual hill culture : 연간 언덕 재배(?) (N = 24),
-under protected cultivation : 보호 재배 (N = 15),
-matted rows : 이랑 재배 (N = 9)
-아마도 딸기의 개체밀도 관련 용어로 추정된다.
+- **용어 정리:**  
+
+annual hill culture : 연간 언덕 재배(?) (N = 24),  
+
+under protected cultivation : 보호 재배 (N = 15),  
+
+matted rows : 이랑 재배 (N = 9)  
+
+아마도 딸기의 개체밀도 관련 용어로 추정된다.  
+
 <br/><br/><br/>
 
 # 본 연구는 딸기 재배 시 식물 밀도가 수확량에 미치는 영향을 분석한다.
@@ -46,7 +51,7 @@ matted rows : 이랑 재배 (N = 9)
 
 <br/><br/><br/><br/>
 
-# 2. 논문 리뷰: 보광과 재식밀도가 수경재배 딸기의 생육과 수확량에 미치는 영향(국내논문)
+# 2. 논문 리뷰: 보광과 재식밀도가 과채류의 생육과 수확량에 미치는 영향(국내논문)
 
 ## 논문 정보
 - **링크:** [논문 링크](https://www.dbpia.co.kr/journal/detail?nodeId=T15081550)
@@ -72,22 +77,22 @@ matted rows : 이랑 재배 (N = 9)
 
 ### 작물별 재식밀도 영향
 #### 파프리카 (Capsicum annuum)
-- 재식밀도가 높을수록 단위면적당 생산량 증가 *(Cavero et al., 2001)*.
-- 그러나 너무 높으면 **영양생장 과다**로 인해 수확량 감소 *(Khasmakhi-Sabet et al., 2009)*.
+- 재식밀도가 높을수록 단위면적당 생산량이 증가하였다 *(Cavero et al., 2001)*.
+- 그러나 너무 높으면 **영양생장 과다**로 인해 수확량이 감소하였다 *(Khasmakhi-Sabet et al., 2009)*.
 
 #### 수박 (Citrullus lanatus)
-- 재식밀도가 증가하면 단위면적당 수확량 증가하나, **일정 수준 이상에서는 감소** *(Akintoye et al., 2009)*.
+- 재식밀도가 증가하면 단위면적당 수확량이 증가하나, **일정 수준 이상에서는 감소하였다** *(Akintoye et al., 2009)*.
 
 #### 토마토 (Solanum lycopersicum)
-- 재식간격을 넓히면 **주당 수확량 증가**하지만 **열과 발생 증가** *(Law-Ogbomo & Egharevba, 2009)*.
-- 재식밀도를 높이면 **총 수확량 증가**하나, **과일 크기는 작아짐** *(Papadopoulos & Pararajasingham, 1997)*.
+- 재식간격을 넓히면 **주당 수확량이 증가**하지만, **열과 발생(과일의 껍질이 갈라지는 현상)이 증가한다** *(Law-Ogbomo & Egharevba, 2009)*.
+- 재식밀도를 높이면 **총 수확량이 증가**하지만, **과일 크기는 작아졌다.** *(Papadopoulos & Pararajasingham, 1997)*.
 
 #### 무 (Raphanus sativus)
-- **재식밀도를 낮추면 품질 향상**되지만 **총 수확량 감소** *(El-Densuki et al., 2005)*.
+- **재식밀도를 낮추면 품질이 향상**되지만, **총 수확량이 감소하였다.** *(El-Densuki et al., 2005)*.
 
-#### 딸기 (Fragaria × ananassa)
-- 출엽 속도는 적산온도에 반응하므로 재식밀도 차이가 크지 않음 *(Costa et al., 2017; Nasto et al., 2009)*.
-- 하지만 **재식밀도가 높을수록 총 수확량 증가**.
-- 딸기의 수확량은 모본 수 및 관부 수와 정의 상관관계 *(Wilson & Dixon, 1988)*.
-- **재식밀도가 높을수록 엽면적 증가**하나, **광 이용 효율은 감소** *(Camacaro et al., 2004)*.
+#### 🍓 딸기 (Fragaria × ananassa)
+- 출엽 속도는 적산온도에 반응하므로 재식밀도 차이가 크지 않았다. *(Costa et al., 2017; Nasto et al., 2009)*.
+- 하지만 **재식밀도가 높을수록 총 수확량이 증가 하였다.**
+- 딸기의 수확량은 모본 수 및 관부 수와 정의 상관관계 *(Wilson & Dixon, 1988)*를 보였다.
+- **재식밀도가 높을수록 엽면적이 증가**하나, **광 이용 효율은 감소하였다** *(Camacaro et al., 2004)*.
 
