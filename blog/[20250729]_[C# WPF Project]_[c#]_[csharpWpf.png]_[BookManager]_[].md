@@ -59,6 +59,16 @@ BookManager/
 - `EnsureCreated()`를 통해 앱 실행 시 자동 테이블 생성  
 - LINQ 쿼리로 CRUD 처리
 
+---
+
 ## 5. 코드
 
 - [코드 링크](https://github.com/ShawnKim2/BookManager)
+
+---
+
+## 6. 실행
+
+- ![
+ 실행   
+](ShawnKim2/blog/img/csharpbookmanager.png)
