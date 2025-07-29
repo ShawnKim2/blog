@@ -69,6 +69,4 @@ BookManager/
 
 ## 6. 실행
 
-- ![
- 실행   
-](ShawnKim2/blog/img/csharpbookmanager.png)
+- ![실행 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpbookmanager.png)
