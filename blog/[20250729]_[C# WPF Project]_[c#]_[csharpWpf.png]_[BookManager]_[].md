@@ -23,8 +23,19 @@
 
 ## 3. 프로젝트 구조
 
-<pre> <code> ``` BookManager/ ├── Model/ │ └── Book.cs ├── ViewModel/ │ ├── BaseViewModel.cs │ ├── RelayCommand.cs │ └── MainViewModel.cs ├── Database/ │ └── LibraryContext.cs ├── MainWindow.xaml └── MainWindow.xaml.cs ``` </code> </pre>
-
+```
+BookManager/
+├── Model/
+│   └── Book.cs
+├── ViewModel/
+│   ├── BaseViewModel.cs
+│   ├── RelayCommand.cs
+│   └── MainViewModel.cs
+├── Database/
+│   └── LibraryContext.cs
+├── MainWindow.xaml
+└── MainWindow.xaml.cs
+```
 
 ---
 
