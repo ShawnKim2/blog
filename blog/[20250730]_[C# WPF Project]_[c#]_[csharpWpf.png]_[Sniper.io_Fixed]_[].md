@@ -47,17 +47,26 @@
 
 ## 6. 스크린샷
 
-![게임 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper1.png)  
-게임 화면
+<p align="center">
+  <img src="https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper1.png" alt="게임 화면"><br/>
+  게임 화면
+</p>
 
-![1턴 경과](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper2.png)  
-1턴 경과
+<p align="center">
+  <img src="https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper2.png" alt="1턴 경과"><br/>
+  1턴 경과
+</p>
 
-![2턴 경과, 반격 성공](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper3.png)  
-2턴 경과, 반격 성공
+<p align="center">
+  <img src="https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper3.png" alt="2턴 경과, 반격 성공"><br/>
+  2턴 경과, 반격 성공
+</p>
 
-![승리 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper4.png)  
-승리 화면
+<p align="center">
+  <img src="https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper4.png" alt="승리 화면"><br/>
+  승리 화면
+</p>
+
 
 
 
