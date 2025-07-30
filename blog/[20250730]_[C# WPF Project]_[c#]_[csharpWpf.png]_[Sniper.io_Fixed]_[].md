@@ -6,15 +6,15 @@
 ---
 
 ## 1. 게임 룰
-저격수: 저격과 폭격 둘 중 하나의 행동을 할 수 있음.
-저격: 수비수를 공격. 우선도 +1, 저격은 7번만 사용할 수 있음.
-폭격: 수비수를 공격. 수비수의 수비를 뚫고 공격. 우선도 -4
+- 저격수: 저격과 폭격 둘 중 하나의 행동을 할 수 있음.
+- 저격: 수비수를 공격. 우선도 +1, 저격은 7번만 사용할 수 있음.
+- 폭격: 수비수를 공격. 수비수의 수비를 뚫고 공격. 우선도 -4
 
 <br/>
 
-수비수: 수비와 반격 둘 중 하나의 행동을 할 수 있음.
-수비: 저격수의 저격을 막음. 우선도 +2
-반격: 저격수를 공격. 우선도 0
+- 수비수: 수비와 반격 둘 중 하나의 행동을 할 수 있음.
+- 수비: 저격수의 저격을 막음. 우선도 +2
+- 반격: 저격수를 공격. 우선도 0
 
 ---
 
@@ -46,19 +46,18 @@
 ---
 
 ## 6. 스크린샷
-![게임 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper1.png)
 
-<br/>
+![게임 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper1.png)  
+게임 화면
 
-![1턴 경과](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper2.png)
+![1턴 경과](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper2.png)  
+1턴 경과
 
-<br/>
+![2턴 경과, 반격 성공](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper3.png)  
+2턴 경과, 반격 성공
 
-![2턴 경과, 반격 성공](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper3.png)
-
-<br/>
-
-![승리 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper4.png)
+![승리 화면](https://github.com/ShawnKim2/blog/raw/main/img/csharpsniper4.png)  
+승리 화면
 
 
 
