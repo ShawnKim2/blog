@@ -5,4 +5,4 @@
 
 ## ppt 자료:
 
-<iframe src=""https://github.com/ShawnKim2/blog/raw/main/img/database_project_sh_2024.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://cdn.jsdelivr.net/gh/ShawnKim2/blog/img/database_project_sh_2024.pdf" width="100%" height="600px"></iframe>
