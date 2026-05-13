@@ -1,22 +1,53 @@
-# C# WPF 프로젝트 리팩토링 - UI와 MVVM 구조
-# ViewModel과 Command 코드 해설
+# 🎲 C# WPF 프로젝트 리팩토링  
+## UI 개선 및 MVVM 구조 적용
 
-# 기존 프로젝트 링크:
-
----
-## 코드 링크:
-
-- [코드 링크](https://github.com/ShawnKim2/Math_Dice_fixed)
----
-
-# 수정된 프로젝트 링크:
+> 기존 Code-Behind 중심 구조를  
+> **MVVM 패턴 기반 구조**로 리팩토링하며  
+> 유지보수성과 확장성을 개선한 과정을 정리했다.
 
 ---
-## 코드 링크:
 
-- [코드 링크](https://github.com/ShawnKim2/Math_Dice_Fixed_V2)
+# 프로젝트 링크
+
+<table>
+<tr>
+<td width="50%">
+
+## 🔹 기존 프로젝트
+
+기존 구조는 UI와 로직이 강하게 결합되어 있어  
+기능 추가 및 유지보수가 어려운 상태였다.
+
+🔗 **Repository**  
+[Math_Dice_fixed](https://github.com/ShawnKim2/Math_Dice_fixed)
+
+</td>
+
+<td width="50%">
+
+## 리팩토링 프로젝트
+
+MVVM 패턴을 적용하고  
+Command / Binding 기반 구조로 개선하였다.
+
+🔗 **Repository**  
+[Math_Dice_Fixed_V2](https://github.com/ShawnKim2/Math_Dice_Fixed_V2)
+
+</td>
+</tr>
+</table>
+
 ---
 
+# 리팩토링 목표
+
+- Code-Behind 최소화
+- MVVM 패턴 적용
+- View / ViewModel 역할 분리
+- Command 기반 이벤트 처리
+- 유지보수성과 확장성 향상
+
+---
 ## 왜 MVVM 구조로 변경했을까?
 
 기존 프로젝트는 다음과 같은 구조였다.
